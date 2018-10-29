@@ -1,0 +1,7 @@
+E:\thuong mai dien tu\project\SET\testSET\Key\obj\Debug\Message.csprojResolveAssemblyReference.cache
+E:\thuong mai dien tu\project\SET\testSET\Key\obj\Debug\Message.csproj.CoreCompileInputs.cache
+E:\thuong mai dien tu\project\SET\testSET\Key\obj\Debug\Key.exe
+E:\thuong mai dien tu\project\SET\testSET\Key\obj\Debug\Key.pdb
+E:\thuong mai dien tu\project\SET\testSET\Key\bin\Debug\Key.exe.config
+E:\thuong mai dien tu\project\SET\testSET\Key\bin\Debug\Key.exe
+E:\thuong mai dien tu\project\SET\testSET\Key\bin\Debug\Key.pdb
